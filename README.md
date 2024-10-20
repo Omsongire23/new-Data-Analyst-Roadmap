@@ -18,6 +18,10 @@ Python In Hindi: https://www.youtube.com/watch?v=MJd9d9Mpxg0&list=PLTDARY42LDV4q
 ### R Programming Language
 ![unnamed (1)](https://user-images.githubusercontent.com/20041231/211466981-43ebae2c-0581-4604-8b01-35a97d350080.png)
 
+R In English: https://www.youtube.com/playlist?list=PLjVLYmrlmjGdmPrz0Lx7smkd0qIKHInOF
+
+R In Hindi: https://www.youtube.com/watch?app=desktop&v=SBhpLnPuNlI
+
 ## 2. Statistics
 ![1_UAGU532MbhR5cm3symwWqg](https://user-images.githubusercontent.com/20041231/211467108-a82c82fa-4366-440b-8294-5bd3e0bbf081.png)
 
@@ -61,12 +65,14 @@ Top ETL Tools: https://www.integrate.io/blog/top-7-etl-tools/
 
 ## Business Intelligence Tools
 
-![maxresdefaultreduced](https://user-images.githubusercontent.com/20041231/211717386-39f75daf-0c1e-4295-8e00-657578f397a1.jpg)
-
+![PowerBi-logo](https://user-images.githubusercontent.com/20041231/211717386-39f75daf-0c1e-4295-8e00-657578f397a1.jpg)
 ![Tableau-logo](https://user-images.githubusercontent.com/20041231/211717508-ccd3da44-1e33-47c0-a1ec-66583f73c496.jpg)
+
 
 ## Advanced Excel
 ![png-clipart-microsoft-excel-app-store-spreadsheet-microsoft-text-logo](https://user-images.githubusercontent.com/20041231/211717601-a7520e3b-bd50-4cbd-957a-8ff2bbce25b3.png)
+
+Tutorial for Excel (In English): https://www.youtube.com/playlist?list=PLafee58g2G51OLT8eKiN4iPGUdKRpfbFY
 
 ## Real Time Internships
 ![Red White Modern Youtube Thumbnail (2)](https://user-images.githubusercontent.com/20041231/211743026-4f3da97c-897b-4d10-acea-503591ca935d.jpg)
